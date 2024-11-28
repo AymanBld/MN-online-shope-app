@@ -44,12 +44,4 @@ app.*.map.json
 
 
 
-#temporary mayn
-
-
-lib/controller/orders/order_details_ctrl.dart
-lib/controller/orders/order_ctrl.dart
-lib/controller/orders/orders_archive_ctrl.dart
-lib/data/model/order_model.dart
-lib/view/screens/setting/orders
-lib/view/widgets/orders
+#temporary myn
