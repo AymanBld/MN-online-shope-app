@@ -44,4 +44,17 @@ app.*.map.json
 
 
 
-#temporary myn
+#######
+lib/controller
+lib/core
+lib/data
+lib/view
+lib/binding.dart
+lib/main.dart
+lib/routes.dart
+
+# lib/controller/home
+# lib/data/order_model.dart
+# lib/data/order_details_model.dart
+# lib/view/screen/home
+# lib/view/widget/home
