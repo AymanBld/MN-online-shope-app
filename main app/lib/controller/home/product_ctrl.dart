@@ -1,6 +1,5 @@
 import 'package:finale/controller/orders/cart_ctrl.dart';
 import 'package:finale/data/model/products_model.dart';
-import 'package:finale/view/screens/auth/success.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
