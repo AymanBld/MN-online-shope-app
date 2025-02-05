@@ -30,6 +30,7 @@ List<GetPage<dynamic>> routes = [
     name: '/',
     page: () => const ChoseLang(),
     middlewares: [Mymiddleware()],
+    
   ),
 
   //

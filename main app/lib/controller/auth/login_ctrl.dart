@@ -32,6 +32,7 @@ class LoginController extends LoginControllerAll {
       Map response = await data.postRequest(email.text, password.text);
       statusrequest = handlingStatus(response);
       update();
+      
 
       if (statusrequest == StatusRequest.success) {
         if (response['data'][0]['user_verifyed'] == 1) {
