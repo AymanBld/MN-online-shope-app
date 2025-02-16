@@ -23,6 +23,7 @@ class OrderCtrl extends GetxController {
       AppLinks.getOrders,
       {'user_id': myservices.sharedpref.getString('id')},
     );
+    
 
     statusrequest = handlingStatus(response);
     if (statusrequest == StatusRequest.success) {
